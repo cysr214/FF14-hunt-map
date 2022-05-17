@@ -35,7 +35,7 @@
 
 |  地区   | B怪1  |  B怪2  |
 |  ----  | ----  | ----  |
-| 库尔札斯西部高地 | [克鲁泽](https://cablemonkey.us/huntmap2/maps/The_Fringes_-_Ouzelum.jpg)  | [阿尔提克](https://cablemonkey.us/huntmap2/maps/Coerthas_Western_Highlands_-_Alteci.jpg)
+| 库尔札斯西部高地 | [克鲁泽](https://cablemonkey.us/huntmap2/maps/Coerthas_Western_Highlands_-_Kreutzet.jpg)  | [阿尔提克](https://cablemonkey.us/huntmap2/maps/Coerthas_Western_Highlands_-_Alteci.jpg)
 | 阿巴拉提亚云海 | [飞舞翼 萨努瓦力](https://cablemonkey.us/huntmap2/maps/The_Sea_of_Clouds_-_Sanu_Vali_of_Dancing_Wings.jpg) | [斯奎克](https://cablemonkey.us/huntmap2/maps/The_Sea_of_Clouds_-_Squonk.jpg) 
 | 龙堡参天高地 | [骨颌彗星兵](https://cablemonkey.us/huntmap2/maps/The_Dravanian_Forelands_-_Gnath_Cometdrone.jpg)  | [提克斯塔](https://cablemonkey.us/huntmap2/maps/The_Dravanian_Forelands_-_Thextera.jpg)
 | 翻云雾海 | [惊慌稻草龙](https://cablemonkey.us/huntmap2/maps/The_Churning_Mists_-_The_Scarecrow.jpg) | [斯奇塔利斯](https://cablemonkey.us/huntmap2/maps/The_Churning_Mists_-_Scitalis.jpg) 
