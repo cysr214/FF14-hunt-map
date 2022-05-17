@@ -19,7 +19,7 @@
 | 珂露西亚岛 | [三合鸟儿](https://cablemonkey.us/huntmap2/maps/Kholusia_-_Coquecigrue.jpg) | [不屈号](https://cablemonkey.us/huntmap2/maps/Kholusia_-_Indomitable.jpg) 
 | 伊尔美格 | [杜莫伊](https://cablemonkey.us/huntmap2/maps/Il_Mheg_-_Domovoi.jpg)  | [狐首虺](https://cablemonkey.us/huntmap2/maps/Il_Mheg_-_Vulpangue.jpg)
 | 安穆·艾兰 | [残虐杂技师](https://cablemonkey.us/huntmap2/maps/Amh_Araeng_-_Juggler_Hecatomb.jpg) | [大井巨虫](https://cablemonkey.us/huntmap2/maps/Amh_Araeng_-_Worm_of_the_Well.jpg) 
-| 拉凯提卡大森林 | [帕查玛玛](https://cablemonkey.us/huntmap2/maps/The_Raktika_Greatwood_-_Mindmaker.jpg) | [启灵果](https://cablemonkey.us/huntmap2/maps/The_Raktika_Greatwood_-_Mindmaker.jpg) 
+| 拉凯提卡大森林 | [帕查玛玛](https://cablemonkey.us/huntmap2/maps/The_Raktika_Greatwood_-_Pachamama.jpg) | [启灵果](https://cablemonkey.us/huntmap2/maps/The_Raktika_Greatwood_-_Mindmaker.jpg) 
 | 黑风海 | [助祭大蟹](https://cablemonkey.us/huntmap2/maps/The_Tempest_-_Deacon.jpg) | [徒手抓鱼 基乌嘶·渊斯](https://cablemonkey.us/huntmap2/maps/The_Tempest_-_Gilshs_Aath_Swiftclaw.jpg)
 
 ## 4.0 红莲之狂潮
