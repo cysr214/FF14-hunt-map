@@ -4,7 +4,7 @@
 |  ----  | ----  | ----  |
 | 萨维奈  | [伊罗婆缇](https://cablemonkey.us/huntmap2/maps/Thavnair_-_Iravati.jpg)  | [金刚鸠摩罗](https://cablemonkey.us/huntmap2/maps/Thavnair_-_Vajrakumara.jpg)
 | 迷津  | [哞哞](https://cablemonkey.us/huntmap2/maps/Labyrinthos_-_U-u-u-u.jpg) | [草贤人](https://cablemonkey.us/huntmap2/maps/Labyrinthos_-_Green_Archon.jpg) 
-| 加雷马  | [皇帝的玫瑰](https://cablemonkey.us/huntmap2/maps/Labyrinthos_-_Green_Archon.jpg)  | [战争贩子](https://cablemonkey.us/huntmap2/maps/Garlemald_-_Warmonger.jpg)
+| 加雷马  | [皇帝的玫瑰](https://cablemonkey.us/huntmap2/maps/Garlemald_-_Emperors_Rose.jpg)  | [战争贩子](https://cablemonkey.us/huntmap2/maps/Garlemald_-_Warmonger.jpg)
 | 叹息海  | [起源石](https://cablemonkey.us/huntmap2/maps/Mare_Lamentorum_-_Genesis_Rock.jpg) | [巨月蚤](https://cablemonkey.us/huntmap2/maps/Mare_Lamentorum_-_Daphnia_Magna.jpg) 
 | 厄尔庇斯 | [肖科莫](https://cablemonkey.us/huntmap2/maps/Elpis_-_Shockmaw.jpg)  | [尤姆卡克斯](https://cablemonkey.us/huntmap2/maps/Elpis_-_Yumcax.jpg) 
 | 天外天垓 | [等级作弊仪](https://cablemonkey.us/huntmap2/maps/Ultima_Thule_-_Level_Cheater.jpg) | [欧斯克·雷伊](https://cablemonkey.us/huntmap2/maps/Ultima_Thule_-_Oskh_Rhei.jpg)
