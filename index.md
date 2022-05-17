@@ -17,7 +17,7 @@
 | 珂露西亚岛 | [三合鸟儿](https://cablemonkey.us/huntmap2/maps/Kholusia_-_Coquecigrue.jpg) | [不屈号](https://cablemonkey.us/huntmap2/maps/Kholusia_-_Indomitable.jpg) 
 | 伊尔美格 | [杜莫伊](https://cablemonkey.us/huntmap2/maps/Il_Mheg_-_Domovoi.jpg)  | [狐首虺](https://cablemonkey.us/huntmap2/maps/Il_Mheg_-_Vulpangue.jpg)
 | 安穆·艾兰 | [残虐杂技师](https://cablemonkey.us/huntmap2/maps/Amh_Araeng_-_Juggler_Hecatomb.jpg) | [大井巨虫](https://cablemonkey.us/huntmap2/maps/Amh_Araeng_-_Worm_of_the_Well.jpg) 
-| 拉凯提卡大森林 | [帕查玛玛](https://cablemonkey.us/huntmap2/maps/The_Raktika_Greatwood_-_Mindmaker.jpg) | [启灵果](https://cablemonkey.us/huntmap2/maps/The_Raktika_Greatwood_-_Mindmaker.jpg) 
+| 拉凯提卡大森林 | [帕查玛玛](https://cablemonkey.us/huntmap2/maps/The_Raktika_Greatwood_-_Pachamama.jpg) | [启灵果](https://cablemonkey.us/huntmap2/maps/The_Raktika_Greatwood_-_Mindmaker.jpg) 
 | 黑风海 | [助祭大蟹](https://cablemonkey.us/huntmap2/maps/The_Tempest_-_Deacon.jpg) | [徒手抓鱼 基乌嘶·渊斯](https://cablemonkey.us/huntmap2/maps/The_Tempest_-_Gilshs_Aath_Swiftclaw.jpg)
 
 ## 4.0 红莲之狂潮
@@ -27,7 +27,7 @@
 | 基拉巴尼亚边区 | [奥祖鲁姆](https://cablemonkey.us/huntmap2/maps/The_Fringes_-_Ouzelum.jpg)  | [影中暗 雅弥尼](https://cablemonkey.us/huntmap2/maps/The_Fringes_-_Shadow-dweller_Yamini.jpg)
 | 基拉巴尼亚山区 | [蛇仆蚂蜓](https://cablemonkey.us/huntmap2/maps/The_Peaks_-_Gwas-y-neidr.jpg) | [布卡卜](https://cablemonkey.us/huntmap2/maps/The_Peaks_-_Buccaboo.jpg) 
 | 基拉巴尼亚湖区 | [奇洼](https://cablemonkey.us/huntmap2/maps/The_Lochs_-_Kiwa.jpg)  | [玛涅斯](https://cablemonkey.us/huntmap2/maps/The_Lochs_-_Manes.jpg)
-| 红玉海 | [姑获鸟](https://cablemonkey.us/huntmap2/maps/The_Ruby_Sea_-_Guhuo_Niao.jpg) | [剑豪 刑具](https://cablemonkey.us/huntmap2/maps/The_Ruby_Sea_-_Guhuo_Niao.jpg) 
+| 红玉海 | [姑获鸟](https://cablemonkey.us/huntmap2/maps/The_Ruby_Sea_-_Guhuo_Niao.jpg) | [剑豪 刑具](https://cablemonkey.us/huntmap2/maps/The_Ruby_Sea_-_Gauki_Strongblade.jpg) 
 | 延夏 | [大太](https://cablemonkey.us/huntmap2/maps/Yanxia_-_Deidar.jpg) | [闪雷击 鱼雷](https://cablemonkey.us/huntmap2/maps/Yanxia_-_Gyorai_Quickstrike.jpg) 
 | 太阳神草原 | [阿苏黄](https://cablemonkey.us/huntmap2/maps/The_Azim_Steppe_-_Aswang.jpg) | [俱利摩](https://cablemonkey.us/huntmap2/maps/The_Azim_Steppe_-_Kurma.jpg)
 
@@ -35,7 +35,7 @@
 
 |  地区   | B怪1  |  B怪2  |
 |  ----  | ----  | ----  |
-| 库尔札斯西部高地 | [克鲁泽](https://cablemonkey.us/huntmap2/maps/The_Fringes_-_Ouzelum.jpg)  | [阿尔提克](https://cablemonkey.us/huntmap2/maps/The_Fringes_-_Shadow-dweller_Yamini.jpg)
+| 库尔札斯西部高地 | [克鲁泽](https://cablemonkey.us/huntmap2/maps/The_Fringes_-_Ouzelum.jpg)  | [阿尔提克](https://cablemonkey.us/huntmap2/maps/Coerthas_Western_Highlands_-_Alteci.jpg)
 | 阿巴拉提亚云海 | [飞舞翼 萨努瓦力](https://cablemonkey.us/huntmap2/maps/The_Sea_of_Clouds_-_Sanu_Vali_of_Dancing_Wings.jpg) | [斯奎克](https://cablemonkey.us/huntmap2/maps/The_Sea_of_Clouds_-_Squonk.jpg) 
 | 龙堡参天高地 | [骨颌彗星兵](https://cablemonkey.us/huntmap2/maps/The_Dravanian_Forelands_-_Gnath_Cometdrone.jpg)  | [提克斯塔](https://cablemonkey.us/huntmap2/maps/The_Dravanian_Forelands_-_Thextera.jpg)
 | 翻云雾海 | [惊慌稻草龙](https://cablemonkey.us/huntmap2/maps/The_Churning_Mists_-_The_Scarecrow.jpg) | [斯奇塔利斯](https://cablemonkey.us/huntmap2/maps/The_Churning_Mists_-_Scitalis.jpg) 
